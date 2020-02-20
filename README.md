@@ -1,16 +1,16 @@
-#StackOverflow error search
+# StackOverflow error search
 
 Searches solutions on StackOverflow for uncought errors in javascript (currently only works in browsers)
 
-###Install
+### Install
 ```
 npm i stackoverflow-error-search
 ```
 
-###How to use
+### How to use
 Import it in entry point of your project
 
-###Methods
+### Methods
 - `start` enables errors searching. By default listening is enabled
 - `stop` disables errors searching
 - `config` to customize searching
