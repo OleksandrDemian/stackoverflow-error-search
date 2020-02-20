@@ -1,0 +1,16 @@
+{
+  "name": "stackoverflow-error-search",
+  "version": "1.0.10",
+  "description": "Searches solutions on StackOverflow for uncatched errors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksandr Demian",
+  "license": "ISC",
+  "keywords": [
+    "stackoverflow",
+    "error",
+    "solution"
+  ]
+}
