@@ -1,6 +1,6 @@
 {
   "name": "stackoverflow-error-search",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Searches solutions on StackOverflow for uncatched errors",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,9 @@
     "stackoverflow",
     "error",
     "solution"
-  ]
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/OleksandrDemian/stackoverflow-error-search"
+  }
 }
